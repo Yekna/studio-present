@@ -836,7 +836,7 @@ i {
         transform: translate(50%, -50%);
     }
 
-    .next-review-bt {
+    .next-review-btn {
         left: 0;
         transform: translate(-50%, -50%);
     }
