@@ -1,5 +1,5 @@
 :root {
-    --md: 1110px;
+    --md: 1322px;
     --dark-red: #A62120;
     --light-red: #b50014;
 }
@@ -566,7 +566,7 @@ i {
     gap: 40px;
 }
 
-@media (min-width: 1110px) {
+@media (min-width: 1322px) {
     .image-container {
         background-image: url('public/image14.png'); 
         height: 679px;
@@ -626,8 +626,8 @@ i {
         padding-bottom: 18px;
     }
 
-    .mr-12 {
-        margin-right: 12px;
+    .mr-41 {
+        margin-right: 41px;
     }
 
     .mr-16 {
@@ -869,7 +869,7 @@ i {
 
     header > div > nav {
         padding-right: 0;
-        margin-left: 215px;
+        margin-left: 213px;
     }
 
     .logo {
